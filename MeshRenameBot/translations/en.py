@@ -2,9 +2,9 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "<b>Hello there, I am Mesh Rename Bot by @MalluBhai .</b>"
+    START_MSG = "<b>😎 Hello there, I am Mesh Rename Bot📌! Made by @MalluBhai ✅.</b>"
      
-    CANCEL_MESSAGE = "The rename has been canceled. Will be updated soon."
+    CANCEL_MESSAGE = "<b>❌The rename has been canceled. Will be updated soon.❌</b>"
     
     RENAME_NO_FILTER_MATCH = "NO FILTER MATCHED ABORTING RENAME \nUsing the filters to Rename. As no name was specified. Manage your Filters using /filters."
 
@@ -12,24 +12,24 @@ class EnTrans:
 
     RENAME_NOFLTR_NONAME = "Enter the rename file name in format :- ```/rename my new filename.extension``` or ```Use /filters to set some rename filters.```"
 
-    RENAME_CANCEL = "Cancel this rename."
+    RENAME_CANCEL = "<b>❌Cancel this rename.❌</b>"
 
-    RENAMING_FILE = "Renaming the file currently hold on."
+    RENAMING_FILE = "<b>💠Renaming the file currently hold on.😎</b>"
     
-    DL_RENAMING_FILE = "Downloading the file currently hold on."
+    DL_RENAMING_FILE = "<b>🔻Downloading the file currently hold on.📥</b>"
 
-    RENAME_ERRORED_REPORT = "The download was errored. Report this error."
+    RENAME_ERRORED_REPORT = "<b>😡The download was errored. Report this error.❌</b>"
 
-    RENAME_CANCEL_BY_USER = "Canceled by the user."
+    RENAME_CANCEL_BY_USER = "<b>❌Canceled by the user.❌</b>"
 
     FLTR_ADD_LEFT_STR = "Addition Filter: <code>{}</code> <code>To Left</code>"
     FLTR_ADD_RIGHT_STR = "Addition Filter: <code>{}</code> <code>To Right</code>"
     FLTR_RM_STR = "Remove Filter: <code>{}</code>"
     FLTR_REPLACE_STR = "Replace Filter: <code>{}</code> with <code>{}</code>"
 
-    CURRENT_FLTRS = "Your Current Filters:-"
-    ADD_FLTR = "Add Filter."
-    RM_FLTR = "Remove Filter."
+    CURRENT_FLTRS = "<b>🌀Your Current Filters:-🌀</b>"
+    ADD_FLTR = "<b>✅Add Filter.✅</b>"
+    RM_FLTR = "<b>❌Remove Filter.❌</b>"
 
     FILTERS_INTRO = """
 Welcome to adding filter.
@@ -76,12 +76,12 @@ from the while file name.
     REPLY_TO_MEDIA = "Reply /rename to a media file."
 
     HELP_STR = """
-`/start` - Check if the bot is running.
-`/rename` - Reply to media to rename `/rename filename.extension`. If only `/rename` is used filters will be used.
-`/filters` - Add/Remove Filters. Use this command to see what are these.
-`/setthumb` - Reply to image to set the thumbnail permanently.
-`/getthumb` - Get the thumbnail which is currently set.
-`/clrthumb` - Remove the thumbnail which is set.
+`/start` - Check if the bot is running✅.
+`/rename` - Reply to media to rename `/rename filename.extension`. If only `/rename` is used filters will be used😎.
+`/filters` - Add/Remove Filters. Use this command to see what are these🧁.
+`/setthumb` - Reply to image to set the thumbnail permanently🌀.
+`/getthumb` - Get the thumbnail which is currently set🎯.
+`/clrthumb` - Remove the thumbnail which is set❌.
 `/mode` - Change between 3 modes:-
     - Same format as it was sent. [If doc is sent doc is uploaded if video is sent video is uploaded.]
     - Force to Document. [Everything is uploaded as a file.]
