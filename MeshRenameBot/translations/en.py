@@ -12,7 +12,7 @@ class EnTrans:
 
     RENAME_NOFLTR_NONAME = "Enter the rename file name in format :- ```/rename my new filename.extension``` or ```Use /filters to set some rename filters.```"
 
-    RENAME_CANCEL = "<b>❌Cancel this rename.❌</b>"
+    RENAME_CANCEL = "❌Cancel this rename.❌"
 
     RENAMING_FILE = "<b>💠Renaming the file currently hold on.😎</b>"
     
@@ -28,8 +28,8 @@ class EnTrans:
     FLTR_REPLACE_STR = "Replace Filter: <code>{}</code> with <code>{}</code>"
 
     CURRENT_FLTRS = "<b>🌀Your Current Filters:-🌀</b>"
-    ADD_FLTR = "<b>✅Add Filter.✅</b>"
-    RM_FLTR = "<b>❌Remove Filter.❌</b>"
+    ADD_FLTR = "✅Add Filter.✅"
+    RM_FLTR = "❌Remove Filter.❌"
 
     FILTERS_INTRO = """
 Welcome to adding filter.
