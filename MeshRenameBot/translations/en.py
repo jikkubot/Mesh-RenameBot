@@ -4,7 +4,7 @@ class EnTrans:
     
     START_MSG = "<b>😎 Hello there, I am Mesh Rename Bot📌! Made by @MalluBhai ✅.</b>"
      
-    CANCEL_MESSAGE = "<b>❌The rename has been canceled. Will be updated soon.❌</b>"
+    CANCEL_MESSAGE = "❌The rename has been canceled. Will be updated soon.❌"
     
     RENAME_NO_FILTER_MATCH = "NO FILTER MATCHED ABORTING RENAME \nUsing the filters to Rename. As no name was specified. Manage your Filters using /filters."
 
